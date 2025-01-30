@@ -1,8 +1,8 @@
 # Cardiotoxicity_FYP-30-MIT-2025
 
-## Transformer-Based Heart Sound Classification
+## LSTM-based Heart Sound Classification
 
-This repository contains a deep learning model for classifying heart sounds using a Transformer-based approach. The model extracts MFCC, Mel Spectrogram, and Chroma features from audio recordings and classifies them into multiple categories.
+This project implements an LSTM-based model for classifying heart sounds using MFCC and additional spectral features. The model is trained on audio data and aims to improve classification accuracy using advanced preprocessing and augmentation techniques.
 
 ## Features
 - Transformer-based model for heart sound classification.
